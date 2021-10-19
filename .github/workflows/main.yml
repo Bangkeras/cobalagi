@@ -15,13 +15,13 @@ jobs:
 
             instance-type: P4000
 
-                inputs:
+inputs:
 
                       model:
 
                               type: dataset
 
-                                      with:
+                                            with:
 
                                                 ref: gradient/voxpt
 
